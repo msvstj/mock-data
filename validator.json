@@ -44,7 +44,7 @@
    {
       "address":"0x05086Ab34253F9CB82C67b55c6F9361AFfb9Ce94",
       "commission":0.05,
-      "is_active":true,
+      "is_active":false,
       "label":"Sepolia-Validator7",
       "participation_rate_14d":0.9988211563146727
    }
