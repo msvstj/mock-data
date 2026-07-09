@@ -37,15 +37,15 @@
    {
       "address":"0x38Ae07832B33c18e8e26612df9d34f5486e3E93E",
       "commission":0.05,
-      "is_active":true,
+      "is_active":false,
       "label":"Sepolia-Validator6",
-      "participation_rate_14d":0.9810337149294004
+      "participation_rate_14d":0.7810337149294004
    },
    {
       "address":"0x05086Ab34253F9CB82C67b55c6F9361AFfb9Ce94",
       "commission":0.05,
       "is_active":false,
       "label":"Sepolia-Validator7",
-      "participation_rate_14d":0.5088211563146727
+      "participation_rate_14d":0.2088211563146727
    }
 ]
